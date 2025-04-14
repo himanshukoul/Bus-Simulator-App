@@ -17,3 +17,9 @@ two R scripts:
 
 - Start the API: `bus_api.R`
 - Open the Shiny app: `bus_app.R`
+
+## ScreenShots
+![image](https://github.com/user-attachments/assets/93739c44-d850-4d83-a6c1-bcafbead2c69)
+![image](https://github.com/user-attachments/assets/8109d961-6338-4dcb-a212-3394ac70ad6d)
+![image](https://github.com/user-attachments/assets/1faf0b7f-73ad-4df2-be13-8896a7ba8964)
+
